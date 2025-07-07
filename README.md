@@ -1,4 +1,4 @@
-Estudiante de Matemáticas e Ingeniería Informática en la Universidad de Sevilla 💻
+Double Degree Student in Mathematics and Computer Engineering at the University of Seville 💻
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jose-garcia-009732370) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:josegarciamayen@gmail.com) 
