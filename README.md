@@ -1,4 +1,5 @@
 Double Degree Student in Mathematics and Computer Engineering at the University of Seville 💻
+Come see [my portfolio](https://josegarciamayen.com) and [my blog](https://josegarciamayen.com/blog)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jose-garcía-mayén-009732370) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:josegarciamayen@gmail.com) 
